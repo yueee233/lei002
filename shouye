@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>首页</title>
+    <meta charset="utf-8" />
+  
+  <style type="text/css">
+      	.shouye{
+               text-align:center;
+               margin:0px auto;
+               display: flex;
+               width:425px;
+								height: 825px;
+        }
+    </style>
+    
+</head>
+<body>
+      
+      <img class="shouye" src="img/shouye.png" />
+      
+</body>
+</html>
+
+  
